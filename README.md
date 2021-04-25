@@ -11,6 +11,7 @@
 
 ## Project Name
 
+Classifying Wine Quality
 
 ## Requirements
 ```
